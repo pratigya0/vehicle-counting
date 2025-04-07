@@ -1,0 +1,1 @@
+Real-time Vehicle Counting system using Python and OpenCV. Utilizes background subtraction and contour detection to track vehicles crossing a virtual line. Ideal for traffic monitoring and surveillance. Supports live video feeds and basic object detection for moving vehicles.
